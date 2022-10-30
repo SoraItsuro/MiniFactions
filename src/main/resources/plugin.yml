@@ -1,0 +1,7 @@
+name: MiniFactions
+version: '${project.version}'
+main: com.hiddengrotto.minifactions.MiniFactions
+api-version: 1.19
+authors: [ Sora ]
+description: A small PaperMC plugin designed with faction creation, territory management, and grief protection in mind.
+website: hiddengrotto.com
